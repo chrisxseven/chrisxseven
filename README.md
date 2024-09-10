@@ -2,7 +2,7 @@
 
 - 💻 Atualmente estou em busca da primeira oportunidade
 - 👨🏻‍🎓 Cursando engenharia da computação
-- 👨🏻‍💻 Foco em back-end com java, e estou aprendendo tecnologias como **Spring Boot** e **MySQL**
+- 👨🏻‍💻 Foco em back-end com **Java**, e estou aprendendo tecnologias como **Spring Boot** e **MySQL**
   
 <div> 
         
