@@ -3,9 +3,7 @@
 - 💻 Atualmente estou em busca da primeira oportunidade
 - 👨🏻‍🎓 Cursando engenharia da computação
 - 👨🏻‍💻 Foco em back-end com java, e estou aprendendo tecnologias como **Spring Boot** e **MySQL**
-- 😄
-
-- 
+  
 <div> 
         
 
@@ -24,4 +22,4 @@
 
 ## Minhas Conexões
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seuusuario/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christian-david-461b94236/)
