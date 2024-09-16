@@ -6,7 +6,7 @@
   
 <div> 
         
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisxseven&layout=compact)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisxseven&layout=compact&theme=dark)
 
 
 ## Linguagens e Ferramentas:
