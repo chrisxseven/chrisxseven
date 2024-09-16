@@ -6,6 +6,8 @@
   
 <div> 
         
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisxseven&layout=compact)
+
 
 ## Linguagens e Ferramentas:
 
