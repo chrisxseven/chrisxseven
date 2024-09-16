@@ -5,6 +5,7 @@
 - 👨🏻‍💻 Foco em back-end com **Java**, e estou aprendendo tecnologias como **Spring Boot** e **MySQL**
   
 <div> 
+
         
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisxseven&layout=compact&theme=dark)
 
