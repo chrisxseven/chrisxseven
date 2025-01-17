@@ -1,6 +1,5 @@
 ## Olá!, Sou Christian David, um desenvolvedor especializado em **Java** ☕ e apaixonado por soluções de backend robustas e eficientes.👋
 
-- 💻 Atualmente estou em busca da primeira oportunidade
 - 👨🏻‍🎓 Cursando engenharia da computação
 - 👨🏻‍💻 Foco em back-end com **Java**, e estou aprendendo tecnologias como **Spring Boot** e **MySQL**
   
