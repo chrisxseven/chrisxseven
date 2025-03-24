@@ -10,4 +10,4 @@
 
 ## Minhas Conexões
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christian-david-461b94236/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/christiandavidd/)(https://skillicons.dev) 
