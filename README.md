@@ -11,9 +11,7 @@
 
 ## Linguagens e Ferramentas:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" /> 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+[![My Skills](https://skillicons.dev/icons?i=java,spring,css,wasm)](https://skillicons.dev)
 
 
 ## Minhas Conexões
