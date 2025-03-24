@@ -1,5 +1,5 @@
-- 👨🏻‍🎓 Bacharelando em engenharia da computação
-- 👨🏻‍💻 Foco em back-end com **Java**, e estou aprendendo tecnologias como **Spring Boot**, **PostgreSQL** e **MySQL**
+👨🏻‍🎓 Bacharelando em engenharia da computação
+👨🏻‍💻 Foco em back-end com **Java**, e estou aprendendo tecnologias como **Spring Boot**, **PostgreSQL** e **MySQL**
   
 ## Linguagens e Ferramentas:
 
