@@ -3,15 +3,9 @@
 - 👨🏻‍🎓 Cursando engenharia da computação
 - 👨🏻‍💻 Foco em back-end com **Java**, e estou aprendendo tecnologias como **Spring Boot**, **PostgreSQL** e **MySQL**
   
-<div> 
-
-        
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisxseven&layout=compact&theme=dark)
-
-
 ## Linguagens e Ferramentas:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,spring,postgresql,mysql,)](https://skillicons.dev)
 
 
 ## Minhas Conexões
