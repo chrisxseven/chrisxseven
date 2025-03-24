@@ -1,6 +1,4 @@
-## Olá!, Sou Christian David, um desenvolvedor especializado em **Java** ☕ e apaixonado por soluções de backend robustas e eficientes.👋
-
-- 👨🏻‍🎓 Cursando engenharia da computação
+- 👨🏻‍🎓 Bacharelando em engenharia da computação
 - 👨🏻‍💻 Foco em back-end com **Java**, e estou aprendendo tecnologias como **Spring Boot**, **PostgreSQL** e **MySQL**
   
 ## Linguagens e Ferramentas:
@@ -10,4 +8,4 @@
 
 ## Minhas Conexões
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/christiandavidd/)(https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/christiandavidd/)
